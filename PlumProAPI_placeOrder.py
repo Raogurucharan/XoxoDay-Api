@@ -7,9 +7,9 @@ payload = {
     "tag": "plumProAPI",
     "variables": {
       "data":{
-        "productId":"<productId>",
+        "productId":"<productId>",  #One can find this in Sheet provided by XOXOday for staging env
         "quantity": "1",
-        "denomination": "<price of voucher>",
+        "denomination": "<price of voucher>",  #One can find this in Sheet provided by XOXOday for staging env
         "email": "<enter the email>",
         "contact":"+91-<enter the phone number>",
         "tag":"",
